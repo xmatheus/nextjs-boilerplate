@@ -3,7 +3,7 @@
 exports[`<Main /> should render the Heading  1`] = `
 <main>
   <h1>
-    React Avançado
+    React Avançadooo
   </h1>
 </main>
 `
