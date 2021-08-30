@@ -1,7 +1,5 @@
-export default function Home({ title = 'React avançado' }) {
-  return (
-    <>
-      <h1>{title}</h1>
-    </>
-  )
+import Main from 'components/Main'
+
+export default function Home() {
+  return <Main />
 }
